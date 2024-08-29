@@ -6,8 +6,11 @@
     "check_status": [
       {"enable": "true"}
     ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
     "servers": [
-      {"ip": "54.38.62.44", "port": "25566"},
+      {"ip": "54.38.62.44", "port": "25576"},
       {"ip": "98.76.54.32", "port": "25565"}
     ],
     "xak": [
