@@ -4,7 +4,7 @@
       {"enable": "true"}
     ],
     "check_status": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "servers": [
       {"ip": "123.45.67.89", "port": "25565"},
