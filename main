@@ -13,7 +13,7 @@
     "xak": [
       {"con": "~XSfvgeeCoolDown~"},
       {"del": "~XSfvgeeCoolDownDelete~"},
-      {"enable": "true"}
+      {"enable": "false"}
     ]
   },
 
