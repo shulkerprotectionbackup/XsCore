@@ -7,7 +7,7 @@
       {"enable": "true"}
     ],
     "request_servers": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "servers": [
       {"ip": "54.38.62.44", "port": "25566"},
