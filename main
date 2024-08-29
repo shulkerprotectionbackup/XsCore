@@ -1,7 +1,7 @@
 {
   "XsCooldown": {
     "enable": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "check_status": [
       {"enable": "true"}
