@@ -20,26 +20,6 @@
     ]
   },
 
-  "SoulCooldown": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "54.38.62.44", "port": "25565"},
-      {"ip": "98.76.54.32", "port": "25565"}
-    ],
-    "xak": [
-      {"con": "98ed89de8de8ed8de"},
-      {"del": "~XSfvgeeEHEBEBEGHEGHGECoolDownDelete~"},
-      {"enable": "true"}
-    ]
-  },
 
   "XsPromo": {
     "enable": [
@@ -58,7 +38,7 @@
     "xak": [
       {"con": "98ed89de8de8ed8de"},
       {"del": "~XSfvgeeEHEBEBEGHEGHGECoolDownDelete~"},
-      {"enable": "true"}
+      {"enable": "false"}
     ]
   },
 
