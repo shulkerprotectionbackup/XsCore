@@ -4,7 +4,7 @@
       {"enable": "true"}
     ],
     "check_status": [
-      {"enable": "false"}
+      {"enable": "true"}
     ],
     "request_servers": [
       {"enable": "false"}
@@ -25,7 +25,7 @@
       {"enable": "true"}
     ],
     "check_status": [
-      {"enable": "false"}
+      {"enable": "true"}
     ],
     "request_servers": [
       {"enable": "false"}
