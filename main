@@ -4,7 +4,7 @@
       {"enable": "true"}
     ],
     "check_status": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "request_servers": [
       {"enable": "false"}
