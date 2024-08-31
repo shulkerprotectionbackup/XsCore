@@ -61,6 +61,26 @@
     ]
   },
 
+  "ToolAura": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "true"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏᴏʟᴛɪᴍᴇʜᴀᴄᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟᴛɪᴍᴇʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
   "XsPromo": {
     "enable": [
       {"enable": "true"}
