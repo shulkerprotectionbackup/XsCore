@@ -43,7 +43,7 @@
 
   "ToolLake": {
     "enable": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "check_status": [
       {"enable": "true"}
@@ -63,7 +63,7 @@
 
   "ToolAura": {
     "enable": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "check_status": [
       {"enable": "true"}
@@ -83,7 +83,7 @@
 
   "ToolJump": {
     "enable": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "check_status": [
       {"enable": "true"}
@@ -103,7 +103,7 @@
 
   "ToolFurnaceBrewingStand": {
     "enable": [
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "check_status": [
       {"enable": "true"}
