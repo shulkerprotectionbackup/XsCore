@@ -57,7 +57,7 @@
     "xak": [
       {"con": "~ᴛᴏᴏʟᴛɪᴍᴇʜᴀᴄᴋʙʏᴘʜᴀɴᴛ~"},
       {"del": "~ᴛᴏᴏʟᴛɪᴍᴇʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "true"}
+      {"enable": "false"}
     ]
   },
 
@@ -77,7 +77,7 @@
     "xak": [
       {"con": "~ᴛᴏᴏʟᴛɪᴍᴇʜdedeᴀᴄᴋʙʏᴘʜᴀɴᴛ~"},
       {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "true"}
+      {"enable": "false"}
     ]
   },
 
@@ -97,7 +97,7 @@
     "xak": [
       {"con": "~ᴛᴏᴏʟdedeᴛɪᴍᴇʜdeddedeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
       {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdedededededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "true"}
+      {"enable": "false"}
     ]
   },
 
@@ -117,7 +117,7 @@
     "xak": [
       {"con": "~ᴛᴏdeddeedeᴛɪᴍᴇʜdedededdededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
       {"del": "~ᴛᴏᴏʟᴛdededeɪᴍᴇdedededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "true"}
+      {"enable": "false"}
     ]
   },
 
