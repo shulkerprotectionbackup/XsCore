@@ -81,7 +81,7 @@
     ]
   },
 
-  "ToolKey": {
+  "ToolJump": {
     "enable": [
       {"enable": "true"}
     ],
