@@ -81,6 +81,26 @@
     ]
   },
 
+  "ToolKey": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "true"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏᴏʟdedeᴛɪᴍᴇʜdeddedeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdedededededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "true"}
+    ]
+  },
+
   "XsPromo": {
     "enable": [
       {"enable": "true"}
