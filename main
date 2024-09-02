@@ -146,6 +146,27 @@
     ]
   },
 
+  "ToolCooldown": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "true"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏddedeeddeedeᴛɪᴍᴇʜdedededddebhdehgdhedeededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟdedeᴛdededeɪᴍᴇdedededededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
   "XsPromo": {
     "enable": [
       {"enable": "true"}
