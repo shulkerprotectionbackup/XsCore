@@ -43,7 +43,7 @@
 
   "ToolLake": {
     "enable": [
-      {"enable": "1"}
+      {"enable": "true"}
     ],
     "check_status": [
       {"enable": "true"}
