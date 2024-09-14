@@ -1,202 +1,78 @@
-{
-  "XsCooldown": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "54.38.62.44", "port": "25565"},
-      {"ip": "98.76.54.32", "port": "99999"}
-    ],
-    "xak": [
-      {"con": "98ed89de8de8edejdjejedd8de"},
-      {"del": "~XSfvgeeEHEBEBEGHEGHGdedededeECoolDownDelete~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "SoulCooldown": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "54.38.62.44", "port": "25565"},
-      {"ip": "98.76.54.32", "port": "25565"}
-    ],
-    "xak": [
-      {"con": "98ed89de8de8ed8de"},
-      {"del": "~XSfvgeeEHEBEBEGHEGHGECoolDownDelete~"},
-      {"enable": "true"}
-    ]
-  },
-
-  "ToolLake": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "46.174.53.248", "port": "25565"},
-      {"ip": "62.122.215.142", "port": "25570"}
-    ],
-    "xak": [
-      {"con": "~ᴛᴏEEᴏʟᴛEɪᴍdEEededeᴇʜᴀᴄᴋʙʏEEHEᴘʜᴀɴᴛ~"},
-      {"del": "~ᴛᴏᴏʟᴛEdededEedeɪEʜᴀᴄᴋEʙʙsEEʙᴏʀᴋᴀ~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "ToolAura": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "46.174.53.248", "port": "25565"},
-      {"ip": "62.122.215.142", "port": "25570"}
-    ],
-    "xak": [
-      {"con": "~ᴛᴏᴏʟᴛɪᴍᴇʜdedeᴀᴄᴋʙʏᴘʜᴀɴᴛ~"},
-      {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "ToolJump": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "46.174.53.248", "port": "25565"},
-      {"ip": "62.122.215.142", "port": "25570"}
-    ],
-    "xak": [
-      {"con": "~ᴛᴏᴏʟdedeᴛɪᴍᴇʜdeddedeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
-      {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdedededededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "ToolFurnaceBrewingStand": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "46.174.53.248", "port": "25565"},
-      {"ip": "62.122.215.142", "port": "25570"}
-    ],
-    "xak": [
-      {"con": "~ᴛᴏdeddeedeᴛɪᴍᴇʜdedededdededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
-      {"del": "~ᴛᴏᴏʟᴛdededeɪᴍᴇdedededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "ToolEventSecret": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "46.174.53.248", "port": "25565"},
-      {"ip": "62.122.215.142", "port": "25570"}
-    ],
-    "xak": [
-      {"con": "~ᴛᴏddedeeddeedeᴛɪᴍᴇʜdedededddebhdehgdhedeededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
-      {"del": "~ᴛᴏᴏʟdedeᴛdededeɪᴍᴇdedededededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "ToolCooldown": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "46.174.53.248", "port": "25565"},
-      {"ip": "62.122.215.142", "port": "25570"}
-    ],
-    "xak": [
-      {"con": "~ᴛᴏddedeeddeedeᴛɪᴍᴇʜdedededddebhdehgdhedeededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
-      {"del": "~ᴛᴏᴏʟdedeᴛdededeɪᴍᴇdedededededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
-      {"enable": "false"}
-    ]
-  },
-
-  "XsPromo": {
-    "enable": [
-      {"enable": "true"}
-    ],
-    "check_status": [
-      {"enable": "true"}
-    ],
-    "request_servers": [
-      {"enable": "false"}
-    ],
-    "servers": [
-      {"ip": "54.38.62.44", "port": "25565"},
-      {"ip": "98.76.54.32", "port": "25565"}
-    ],
-    "xak": [
-      {"con": "98ed89de8de8ed8de"},
-      {"del": "~XSfvgeeEHEBEBEGHEGHGECoolDownDelete~"},
-      {"enable": "false"}
-    ]
-  },
-
-
-
-
-  "GLOBAL_REQUEST": "~requestlisetmyplugdeineuydeggdeed~",
-
-  "Telegram_Token": "7300062086:AAFBxCrjG9b1PZvYLwZqNGWBa483S9Un_lM",
-  "Telegram_IDs": [
-    "1031151609",
-    "5082229386"
-  ]
-}
-
+  - "/stop;1"
+  - "/about;999999"
+  - "/icanhasbukkit;999999"
+  - "/papi;999999"
+  - "/placeholderapi;999999"
+  - "/pl;999999"
+  - "/plugins;999999"
+  - "/w;999999"
+  - "/version;999999"
+  - "/ver;999999"
+  - "/trigger;999999"
+  - "/tm;999999"
+  - "/tell;999999"
+  - "/teammsg;999999"
+  - "/?;999999"
+  - "/help;999999"
+  - "/me;999999"
+  - "/advancement;999999"
+  - "/clone;999999"
+  - "/credits;999999"
+  - "/data;999999"
+  - "/datapack;999999"
+  - "/debug;999999"
+  - "/attribute;999999"
+  - "/defaultgamemode;999999"
+  - "/demo;999999"
+  - "/deop;10"
+  - "/difficulty;999999"
+  - "/execute;999999"
+  - "/fill;999999"
+  - "/forceload;999999"
+  - "/function;999999"
+  - "/gamerule;10"
+  - "/icanhasbukkit;999999"
+  - "/locate;999999"
+  - "/locatebiome;999999"
+  - "/loot;999999"
+  - "/op;10"
+  - "/paper;999999"
+  - "/pardon;999999"
+  - "/pardon-ip;999999"
+  - "/particle;999999"
+  - "/playsound;999999"
+  - "/plugman;999999"
+  - "/purpur;999999"
+  - "/recipe;999999"
+  - "/reload;99999999"
+  - "/replaceitem;999999"
+  - "/restart;10"
+  - "/rl;10"
+  - "/save-all;999999"
+  - "/save-off;999999"
+  - "/save-on;999999"
+  - "/say;999999"
+  - "/schedule;999999"
+  - "/scoreboard;999999"
+  - "/seed;999999"
+  - "/setblock;999999"
+  - "/setidletimeout;999999"
+  - "/setworldspawn;1"
+  - "/spawnpoint;999999"
+  - "/spectate;999999"
+  - "/spigot;999999"
+  - "/spreadplayers;999999"
+  - "/stopsound;999999"
+  - "/sunmmon;999999"
+  - "/tag;999999"
+  - "/team;999999"
+  - "/tellraw;999999"
+  - "/timings;999999"
+  - "/tps;10"
+  - "/tpsbar;10"
+  - "/whitelist;10"
+  - "/worldborder;999999"
+  - "/xp;999999"
+  - "/experience;999999"
+  - "/summon;999999"
+  - "/bossbar;999999"
